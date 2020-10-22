@@ -1,0 +1,47 @@
+body {
+    background-color: aliceblue;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: dimgray;
+    font-size: 35pt;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    background-color: lightslategray;
+    color: black;
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+h3 {
+    background-color: lightslategray;
+    color: black;
+    font-size: 130%;
+    font-style: italic;
+}
+
+p {
+    background-color: snow;
+}
+
+em {
+    color: deepskyblue;
+    font-style: normal;
+    font-weight: bold;
+}
+
+strong {
+    color: deepskyblue;
+    font-weight: normal;
+}
+
+address {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
